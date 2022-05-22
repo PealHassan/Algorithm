@@ -1,6 +1,6 @@
 # Algorithm
 *All of the Basic Algorithm is Provided*
-<ol>
+*<ol>
  <li> Graph
 <ol>
   <li> Ariticulation Point </li>
@@ -10,7 +10,7 @@
   <li> Dijkstra </li>
   <li> Strongly Connected Component (SCC) -> Kosaraju </li>  
   <li> Strongly Connected Component (SCC) -> Tarjan </li>  
-  <li> Euler Path -> Fleury -> Kosaraju </li>  
+  <li> Euler Path -> Fleury  </li>  
  </ol>
   </li>
-  </ol>
+  </ol>*
