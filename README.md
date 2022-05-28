@@ -24,6 +24,7 @@
   <ol>
   <li> Robin Carp </li>
   <li> Knuth Morris Praitt -> (KMP) </li>
+  <li> Trie </li>
  </ol> 
   </li>
   </ol>
