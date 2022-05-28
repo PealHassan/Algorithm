@@ -83,8 +83,10 @@ void solve() {
   	pair<ll,ll>p = *(s.begin());
   	s.erase(s.begin());
   	ll u = p.second;  
+   if(dist[u] != p.first) continue;  
   	for(ll i = 0; i<graph[u].size(); i++) {
   		ll v = graph[u][i];  
+
   		if(dist[p.second] + cost[u][i] < dist[v]) {
   			dist[v] = dist[p.second] + cost[u][i];  
   			s.insert({dist[v],v});
