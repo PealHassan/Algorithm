@@ -4,7 +4,7 @@
  <li> Graph
 <ol>
   <li> Ariticulation Point </li>
-  <li> Ariticulation Bridge </li>af
+  <li> Ariticulation Bridge </li>
   <li> Breadth First Search (BFS) </li>  
   <li> Depth First Search (DFS) </li>
   <li> Single Source Shorteset Path -> Dijkstra </li>
