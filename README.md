@@ -1,4 +1,4 @@
-# Algorithm
+  # Algorithm
 *All of the Basic Algorithm is Provided*
 <ol>
  <li> Graph
@@ -10,7 +10,8 @@
   <li> Single Source Shorteset Path -> Dijkstra </li>
   <li> Strongly Connected Component (SCC) -> Kosaraju </li>  
   <li> Strongly Connected Component (SCC) -> Tarjan </li>  
-  <li> Euler Path -> Fleury  </li>  
+  <li> Euler Path -> Fleury  </li> 
+  <li> Kth Ancestor In a Graph -> (using Binary Lifting) </li> 
  </ol>
   </li>
   <li> BackTracking
