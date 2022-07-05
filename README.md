@@ -11,7 +11,8 @@
   <li> Strongly Connected Component (SCC) -> Kosaraju </li>  
   <li> Strongly Connected Component (SCC) -> Tarjan </li>  
   <li> Euler Path -> Fleury  </li> 
-  <li> Kth Ancestor In a Graph -> (using Binary Lifting) </li> 
+  <li> Kth Ancestor In a Graph -> (using Binary Lifting) </li>
+  <li> LCA -> (using Binary Lifting) </li> 
  </ol>
   </li>
   <li> BackTracking
