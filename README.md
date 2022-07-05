@@ -1,7 +1,7 @@
   # Algorithm
 *All of the Basic Algorithm is Provided*
 <ol>
- <li> Graph
+ <li> <b>Graph</b>
 <ol>
   <li> Ariticulation Point </li>
   <li> Ariticulation Bridge </li>
@@ -15,14 +15,14 @@
   <li> LCA -> (using Binary Lifting) </li> 
  </ol>
   </li>
-  <li> BackTracking
+  <li> <b> BackTracking </b>
   <ol>
   <li> All Possible Permutation Among N </li>
   <li> Permutation </li>
   <li> Combination </li>  
  </ol> 
   </li>
-  <li> String Algorithm
+  <li> <b> String Algorithm </b>
   <ol>
   <li> Robin Carp </li>
   <li> Knuth Morris Praitt -> (KMP) </li>
