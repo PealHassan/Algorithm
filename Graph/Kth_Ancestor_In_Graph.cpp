@@ -46,10 +46,10 @@ ll kthAncestor(ll node, ll k) {
 	}
 	return node;  
 }
-int main() { // complexity O(query*log(node));
-	input(); // complexity O(number_of_edges)
+int main() { // complexity O(query*log(node) + node*log(node))
+	input(); // complexity O(edge)
 	dfs(1);  // complexity O(node + edge)
-	buildAncestorTable(); // O(log(node))
+	buildAncestorTable(); // O(node*log(node))
 	ll q;  
 	cin >> q;  // queries 
 	for(ll i = 0; i<q; i++) {
