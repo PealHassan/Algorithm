@@ -41,12 +41,20 @@ pair<double,double> intersectionPoint(point u, point v, point w, point x) {
 	double t,y;  
 	if(a == 0) {
 		y = -(c/b);  
-		if(d == 0) return {0,y};
+		if(d == 0) {
+			if(w.x>=u.x && w.x<=v.x) return {w.x,y};  
+			if(w.x>=v.x && w.x<=u.x) return {w.x,y};  
+			return {x.x,y};  
+		}
 		return {-((e*y)+f)/d,y};   
 	}
 	if(b == 0) {
 		t = -(c/a);  
-		if(e == 0) return {t,0};  
+		if(e == 0) {
+			if(w.y>=u.y && w.y<=v.y) return {t,w.y};
+			if(w.y>=v.y && w.y<=u.y) return {t,w.y};  
+			return {t,x.y};
+ 		}
 		return {t,-((d*t)+f)/e};  
 	}
 	y = ((d*c)-(a*f))/((e*a)-(d*b));  
