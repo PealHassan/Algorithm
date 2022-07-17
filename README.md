@@ -32,4 +32,10 @@
   <li> Trie </li>
  </ol> 
   </li>
+  <li> <b> Geometry </b>
+    <ol> 
+      <li> Line Segment Intersection (From given 4 point of 2 lines) </li>
+      <li> Find Intersection point (From given 4 point of 2 lines) </li>
+    </ol>
+  </li>
   </ol>
