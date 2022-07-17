@@ -4,8 +4,8 @@ int n;
 vector<bool> vis(100,false);
 vector<int> ans;
 void Combination() {
-	for(auto e: ans) cout << e + 1 << " "; 
-	cout << endl;  
+	 for(auto e: ans) cout << e + 1 << " ";
+	 cout << endl;  
 	if(ans.size() == n) return;
 	int p = ans.size()-1;  
 	if(p>=0) p = ans[p];

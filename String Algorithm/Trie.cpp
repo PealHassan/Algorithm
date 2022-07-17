@@ -2,7 +2,7 @@
 using namespace std;
 struct node {
 	bool ending = false;  
-	node *next[100];
+	node *next[27];
 };
 struct Trie {
 	node *root;  

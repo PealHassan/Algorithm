@@ -13,7 +13,8 @@
   <li> Euler Path -> Fleury  </li> 
   <li> Kth Ancestor In a Graph -> (using Binary Lifting) </li>
   <li> LCA -> (using Binary Lifting) </li> 
-  <li> Maximum Flow -> (using Ford-Fulkerson Algorithm) </li>
+  <li> Maximum Flow -> (using Ford-Fulkerson method) </li>
+  <li> Maximum Flow -> (using Ford-Fulkerson method with Edmonds Carp Algorithm) </li>
  </ol>
   </li>
   <li> <b> BackTracking </b>
