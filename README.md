@@ -19,6 +19,8 @@
   <li> Topological Sort </li>
   <li> Lexicographically Topological Sort </li>
   <li> All Possible Topological Sort </li>
+  <li> Minimum Spanning Tree -> Prims Algorithm </li>
+  <li> Minimum Spanning Tree -> Kruskal's Algorithm </li>
  </ol>
   </li>
   <li> <b> BackTracking </b>
