@@ -16,6 +16,9 @@
   <li> Maximum Flow -> (using Ford-Fulkerson method) </li>
   <li> Maximum Flow -> (using Ford-Fulkerson method with Edmonds Carp Algorithm) </li>
   <li> Maximum Bipartite Matching -> (using Ford-Fulkerson method with Edmonds Carp Algorithm) </li>
+  <li> Topological Sort </li>
+  <li> Lexicographically Topological Sort </li>
+  <li> All Possible Topological Sort </li>
  </ol>
   </li>
   <li> <b> BackTracking </b>
