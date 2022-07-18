@@ -36,6 +36,8 @@
     <ol> 
       <li> Line Segment Intersection (From given 4 point of 2 lines) </li>
       <li> Find Intersection point (From given 4 point of 2 lines) </li>
+      <li> Convex Hull -> Graham Scan </li>
+      <li> Convex Hull -> Jarvis March </li>
     </ol>
   </li>
   </ol>

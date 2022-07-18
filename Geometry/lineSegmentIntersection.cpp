@@ -46,5 +46,6 @@ int main() {
 			cout << "Line Segment Intersects." << endl;  
 		else cout << "Doesn't Intersect." << endl;  
 	}
+	
 	return 0;  
 }
