@@ -65,4 +65,9 @@
       <li> Quick Sort </li>
     </ol>
   </li>
+  <li> <b> Range Minimum Query </b>
+    <ol>
+      <li> Range Sum Query -> Sparse Table </li>
+    </ol>
+  </li>
   </ol>
