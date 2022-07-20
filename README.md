@@ -50,4 +50,13 @@
       <li> Convex Hull -> Jarvis March </li>
     </ol>
   </li>
+  <li> <b> Dynamic Programming </b>
+    <ol> 
+      <li> Longest Increasing Subsequence </li>
+      <li> Longest Common Subsequence </li>
+      <li> Edit Distance </li>
+      <li> 0-1 Knapsack </li>
+      <li> Matrix Chain Multiplication </li>
+    </ol>
+  </li>
   </ol>
