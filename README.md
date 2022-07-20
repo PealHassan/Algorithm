@@ -8,9 +8,11 @@
   <li> Breadth First Search (BFS) </li>  
   <li> Depth First Search (DFS) </li>
   <li> Single Source Shorteset Path -> Dijkstra </li>
-  <li> Sigle Source Shortest Path -> Bellman Ford </li>
+  <li> Single Source Shortest Path Printing -> Dijkstra </li>
+  <li> Single Source Shortest Path -> Bellman Ford </li>
   <li> Single Source 2nd Shortest Path -> Dijkstra </li>
   <li> All Pair Shortest Path -> Floyd Warshall </li>
+  <li> All Pair Shortest Path Printing -> Floyd Warshall </li>
   <li> Strongly Connected Component (SCC) -> Kosaraju </li>  
   <li> Strongly Connected Component (SCC) -> Tarjan </li>  
   <li> Euler Path -> Fleury  </li> 
