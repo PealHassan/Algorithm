@@ -59,4 +59,10 @@
       <li> Matrix Chain Multiplication </li>
     </ol>
   </li>
+  <li> <b> Divide And Conquer </b>
+    <ol>
+      <li> Merge Sort </li>
+      <li> Quick Sort </li>
+    </ol>
+  </li>
   </ol>
