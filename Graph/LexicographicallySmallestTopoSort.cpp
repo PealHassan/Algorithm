@@ -10,7 +10,7 @@ void topologicalSort() {
 	for(int i = 0; i<node; i++)
 		if(indegree[i] == 0) q.insert(i);  
 	while(q.size()) {
-		int l = *q.begin(); 
+		int l = *q.begin(); +
 		seq.push_back(l);  
 		q.erase(q.begin());
 		for(int i = 0; i<graph[l].size(); i++) {
